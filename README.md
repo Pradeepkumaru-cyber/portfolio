@@ -61,8 +61,8 @@
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/pradeep-kumar-u-32b669224/
-[github]: https://github.com/YOUR-GITHUB
-[email]: mailto:pradeep4431k@gmail.com
+[github]: https://github.com/Pradeepkumaru-cyber/
+[email]: mailto:pradeepkumaru.cyber@gmail.com
 
 ---
 
@@ -71,8 +71,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning: Red Teaming, Cloud Security
-- 💬 Ask me about: SOC operations, Threat Analysis
-- 📫 Reach me at: pradeep4431k@gmail.com
-- ⚡ Fun fact: I built a fire detection system with AI + real-time SMS alerting!
+- 🌱 I’m currently learning: Red Teaming
+- 💬 Ask me about: Cyber Security Specalist
+- 📫 Reach me at: pradeepkumaru.cyber@gmail.com
+- ⚡ Fun fact: I built a StealthESP Injector!
 -->
