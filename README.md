@@ -46,7 +46,7 @@
 <h2>💼 Experience:</h2>
 
 **🛡️ Cybersecurity Specialist Intern**  
-**Shop Online New York** | Jan 2025 – Present  
+**Shop Online New York** | Jan 2025 – April 2025
 - Analyzed SIEM logs and responded to incidents.  
 - Worked on log correlation, endpoint alerts, and patch assessments.  
 
