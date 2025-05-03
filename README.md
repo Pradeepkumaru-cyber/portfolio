@@ -39,7 +39,7 @@
 - **SIEM & Security:** Splunk, Elastic, Snort, Wireshark  
 - **Cloud Platforms:** AWS, Azure, GCP  
 - **Programming/Scripting:** Python, Bash, PowerShell  
-- **Security Domains:** Threat Hunting, SOC Analysis, Vulnerability Management
+- **Security Domains:** Threat Hunting, Red Teaming, Penetration Testing, Vulnerability Management
 
 ---
 
