@@ -13,7 +13,7 @@
 - <b>🛰️ Wazuh SIEM Monitoring</b>  
   - [Threat Detection & FIM]– Complete SIEM setup with agents, sysmon & FIM rules.
 - <b>🤖 Ulimate Hash Cracker</b>  
-  - [Thread Quality Control using AI] – Fast, ethical, and advanced multi-hash recovery for cybersecurity professionals..
+  - [Cracking hash fast] – Fast, ethical, and advanced multi-hash recovery for cybersecurity professionals..
 
 - <b>🌩️ AWS VPC Setup</b>  
   - [Secure Cloud Infrastructure] – Custom VPC, subnets, NAT & firewall configurations.
