@@ -8,7 +8,7 @@
 <h2>🔐 Cybersecurity & Cloud Projects:</h2>
 
 - <b>🔍 StealthESP Injector</b>  
-  - [Wi-Fi HID Injection Device – Real-time payload injection using ESP-12S & ATmega32U4.
+  - [Wi-Fi HID Injection Device] – Real-time payload injection using ESP-12S & ATmega32U4.
 
 - <b>🛰️ Wazuh SIEM Monitoring</b>  
   - [Threat Detection & FIM]– Complete SIEM setup with agents, sysmon & FIM rules.
@@ -29,8 +29,14 @@
 
 <h2>✍️ Medium Cybersecurity Articles:</h2>
 
-- 🔹 **Wazuh SIEM Setup & Agent Deployment**  
-  https://medium.com/@pradeepkumaru-cyber
+## ✍️ Medium Publications
+
+- **Understanding File Integrity Monitoring (FIM) in Wazuh SIEM** 
+[link](https://medium.com/@pradeepkumaru.cyber/understanding-file-integrity-monitoring-fim-in-wazuh-siem-5618be559704)
+
+- **How I Built a Complete Wazuh SIEM Lab**  
+ [link](https://medium.com/@pradeepkumaru.cyber/how-i-built-a-complete-wazuh-siem-lab-for-threat-detection-and-monitoring-f9cfe92aac9e)
+  
 
 *(More articles coming soon…)*
 
