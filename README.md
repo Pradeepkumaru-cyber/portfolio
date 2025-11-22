@@ -29,7 +29,6 @@
 
 <h2>✍️ Medium Cybersecurity Articles:</h2>
 
-## ✍️ Medium Publications
 
 - **Understanding File Integrity Monitoring (FIM) in Wazuh SIEM**
   
