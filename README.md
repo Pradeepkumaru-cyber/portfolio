@@ -53,7 +53,7 @@
 
 ---
 
-<h2>🧰 Tools & Technologies:</h2>
+<h2>🧰 Tools & Technologies:  </h2>
 - **SIEM & Security:** Wazuh, Splunk, Elastic, Snort, Wireshark, Qualys VMDR, OpenVAS, Snyk, IDS/IPS, Incident Response, Risk Mitigation  
 - **Cloud Platforms & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, Azure DevOps, CI/CD, Infrastructure as Code, Azure Security Center  
 - **Automation & Scripting:** Python, Bash, PowerShell, C#, Java, KQL, SQL  
