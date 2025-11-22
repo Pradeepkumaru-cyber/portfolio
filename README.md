@@ -33,7 +33,7 @@
 
 - **Understanding File Integrity Monitoring (FIM) in Wazuh SIEM**
   
- [link](https://medium.com/@pradeepkumaru.cyber/understanding-file-integrity-monitoring-fim-in-wazuh-siem-5618be559704)
+    [link](https://medium.com/@pradeepkumaru.cyber/understanding-file-integrity-monitoring-fim-in-wazuh-siem-5618be559704)
 
 - **How I Built a Complete Wazuh SIEM Lab**  
  [link](https://medium.com/@pradeepkumaru.cyber/how-i-built-a-complete-wazuh-siem-lab-for-threat-detection-and-monitoring-f9cfe92aac9e)
