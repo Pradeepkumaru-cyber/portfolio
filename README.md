@@ -8,22 +8,22 @@
 <h2>🔐 Cybersecurity & Cloud Projects:</h2>
 
 - <b>🔍 StealthESP Injector</b>  
-  - [Wi-Fi HID Injection Device](https://github.com/Pradeepkumaru-cyber/StealthESP-Injector) – Real-time payload injection using ESP-12S & ATmega32U4.
+  - [Wi-Fi HID Injection Device – Real-time payload injection using ESP-12S & ATmega32U4.
 
 - <b>🛰️ Wazuh SIEM Monitoring</b>  
-  - [Threat Detection & FIM](https://github.com/Pradeepkumaru-cyber/Wazuh-SIEM-Lab) – Complete SIEM setup with agents, sysmon & FIM rules.
+  - [Threat Detection & FIM]– Complete SIEM setup with agents, sysmon & FIM rules.
+- <b>🤖 Ulimate Hash Cracker</b>  
+  - [Thread Quality Control using AI] – Fast, ethical, and advanced multi-hash recovery for cybersecurity professionals..
 
 - <b>🌩️ AWS VPC Setup</b>  
-  - [Secure Cloud Infrastructure](https://github.com/Pradeepkumaru-cyber/AWS-VPC-Setup) – Custom VPC, subnets, NAT & firewall configurations.
+  - [Secure Cloud Infrastructure] – Custom VPC, subnets, NAT & firewall configurations.
 
 - <b>☁️ Azure Web Server & Backup</b>  
-  - [Web Hosting & VM Backup](https://github.com/Pradeepkumaru-cyber/Azure-Webserver-Backup) – Scalable deployment with automated backup.
+  - [Web Hosting & VM Backup] – Scalable deployment with automated backup.
 
-- <b>🤖 AI-Powered Defect Detection</b>  
-  - [Thread Quality Control using AI](https://github.com/Pradeepkumaru-cyber/AI-Defect-Detection) – Real-time detection with ML + UV camera.
 
 - <b>💥 Offensive Security Labs</b>  
-  - [CTFs & Pentesting](https://github.com/Pradeepkumaru-cyber/Offensive-Security-Labs) – Enumeration, exploitation writeups & scripts.
+  - [CTFs & Pentesting] – Enumeration, exploitation writeups & scripts.
 
 ---
 
