@@ -54,13 +54,16 @@
 ---
 
 <h2>🧰 Tools & Technologies:</h2>
+Cybersecurity & SOC: Threat Hunting, Incident Response, SIEM (Wazuh, Splunk, Elastic), IDS/IPS (Snort), Vulnerability Assessment (Qualys VMDR, OpenVAS), Risk Mitigation, Snyk
 
-- **SIEM & Security:** Wazuh, Splunk, Snort, Wireshark  
-- **Cloud Platforms:** AWS, Azure, GCP  
-- **Automation & Scripting:** Python, Bash, PowerShell  
-- **Security Domains:** Threat Hunting, Pentesting, SOC Analysis, Vulnerability Management  
+DevOps & Cloud Security: AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, Azure DevOps, Azure Security Center, CI/CD, Infrastructure as Code
 
----
+Networking & System Security: Firewalls, VPNs, Access Control, System Hardening
+
+Programming & Scripting: Python, Bash, PowerShell, C#, Java, KQL, SQL
+
+Security Tools: Wireshark, Snort, Qualys VMDR, OpenVAS, Snyk
+
 
 <h2>💼 Experience:</h2>
 
