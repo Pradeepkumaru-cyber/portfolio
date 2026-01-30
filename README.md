@@ -62,13 +62,5 @@ Cybersecurity professional with CEH v12 and Google Cybersecurity certifications.
 ---
 
 
-## 📫 Connect With Me
-
-- **LinkedIn:** [Pradeep Kumar U](https://www.linkedin.com/in/pradeep-kumar-u-32b669224/)
-- **GitHub:** [Pradeepkumaru-cyber](https://github.com/Pradeepkumaru-cyber)
-- **Email:** [pradeepkumaru.cyber@gmail.com](mailto:pradeepkumaru.cyber@gmail.com)
-- **Medium:** [@pradeepkumaru.cyber](https://medium.com/@pradeepkumaru.cyber)
-
----
 
 *"Focus on building secure, resilient systems that help organizations defend against evolving cyber threats."*
