@@ -41,8 +41,8 @@ Cybersecurity professional with CEH v12 and Google Cybersecurity certifications.
 
 ## 🧰 Skills & Technologies
 **Security & SIEM:** Wazuh, Splunk, Elastic, Snort, Wireshark, Qualys VMDR, OpenVAS, Snyk, IDS/IPS  
-**Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD  
-**Programming:** Python, Bash, PowerShell, C#, Java, KQL, SQL  
+**Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD, Openstack
+**Programming:** Python, Bash, PowerShell, C#, Java, KQL, 
 **Networking:** Firewalls, VPNs, Access Control, System Hardening, TCP/IP  
 **Frameworks:** NIST CSF, MITRE ATT&CK, Cyber Kill Chain, ISO 27001
 
