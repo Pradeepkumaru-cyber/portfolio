@@ -9,17 +9,17 @@
 ---
 
 ## 🔐 About Me
-Cybersecurity professional with CEH v12 and Google Cybersecurity certifications. Experienced in threat monitoring, vulnerability management, and SOC operations using tools like LogRhythm, Spharaka Sphere™, Wazuh, Splunk, Elastic, Snort, and Qualys VMDR. Hands-on skills in incident response, log analysis, and risk mitigation, with cloud/DevOps expertise in AWS, Azure, GCP, Docker, Kubernetes, and CI/CD. Strong foundation in Python, Linux, networking, and security best practices aligned with NIST and ISO standards.
+Cybersecurity professional with hands-on experience in SOC operations, SIEM monitoring, vulnerability assessment, application security, and attack analysis. Experienced in working with security tools, analyzing logs, mapping attack techniques to MITRE ATT&CK, and investigating security vulnerabilities. Passionate about threat detection, offensive security, and building practical cybersecurity solutions.
 
 ---
 
 ## 🛠️ Technical Projects
-- **🔍 StealthESP Injector** – Wi-Fi HID injection device using ESP-12S & ATmega32U4
-- **🛰️ Wazuh SIEM Monitoring** – Complete SIEM setup with agents, sysmon & FIM rules
-- **🤖 Ultimate Hash Cracker** – Fast, ethical multi-hash recovery tool
-- **🌩️ AWS VPC Setup** – Secure cloud infrastructure with custom VPC, subnets, NAT
-- **☁️ Azure Web Server & Backup** – Scalable deployment with automated backup
-- **💥 Offensive Security Labs** – CTFs & pentesting with enumeration/exploitation writeups
+- **🔍 StealthESP Injector** – Wi-Fi HID injection device built using ESP-12S and ATmega32U4.
+- **🛰️ Wazuh SIEM Monitoring** – Configured a SIEM environment with agents, Sysmon integration, and File Integrity Monitoring (FIM) rules.
+- **🤖 Ultimate Hash Cracker** – Developed a multi-hash recovery tool for authorized password recovery and security testing.
+- **🌩️ AWS VPC Setup** – Designed secure cloud infrastructure using custom VPCs, subnets, and NAT.
+- **☁️ Azure Web Server & Backup** – Deployed a cloud-based web server and configured automated backups.
+- **💥 Offensive Security Labs** – Practiced penetration testing and CTF challenges, documenting enumeration, exploitation, and security findings.
 
 ---
 
