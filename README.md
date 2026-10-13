@@ -9,7 +9,7 @@
 ---
 
 ## 🔐 About Me
-Cybersecurity professional with CEH v12 and Google Cybersecurity certifications. Experienced in threat monitoring, vulnerability management, and SOC operations using tools like Splunk, Elastic, Snort, and Qualys VMDR. Hands-on skills in incident response, log analysis, and risk mitigation, with cloud/DevOps expertise in AWS, Azure, GCP, Docker, Kubernetes, and CI/CD. Strong foundation in Python, Linux, networking, and security best practices aligned with NIST and ISO standards.
+Cybersecurity professional with CEH v12 and Google Cybersecurity certifications. Experienced in threat monitoring, vulnerability management, and SOC operations using tools like LogRhythm, Spharaka Sphere™, Wazuh, Splunk, Elastic, Snort, and Qualys VMDR. Hands-on skills in incident response, log analysis, and risk mitigation, with cloud/DevOps expertise in AWS, Azure, GCP, Docker, Kubernetes, and CI/CD. Strong foundation in Python, Linux, networking, and security best practices aligned with NIST and ISO standards.
 
 ---
 
@@ -40,16 +40,36 @@ Cybersecurity professional with CEH v12 and Google Cybersecurity certifications.
 ---
 
 ## 🧰 Skills & Technologies
-**Security & SIEM:** Wazuh, Splunk, Elastic, Snort, Wireshark, Qualys VMDR, OpenVAS, Snyk, IDS/IPS  
-**Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD, Openstack
-**Programming:** Python, Bash, PowerShell, C#, Java, KQL, 
-**Networking:** Firewalls, VPNs, Access Control, System Hardening, TCP/IP  
-**Frameworks:** NIST CSF, MITRE ATT&CK, Cyber Kill Chain, ISO 27001
+**SIEM & Security Monitoring:** LogRhythm, Spharaka Sphere™, Wazuh, Splunk, Elastic, Snort, Wireshark
+
+**Vulnerability Management:** Qualys VMDR, OpenVAS, Vulnerability Assessment, Vulnerability Remediation, CVSS
+
+**Application Security:** Static Application Security Testing (SAST), SonarQube, Snyk, OWASP ZAP, Burp Suite, Web Application Security Testing
+
+**Endpoint & Operating Systems:** CrowdStrike Falcon, Red Hat Linux, Windows 11, Linux Administration
+
+**Networking & Security:** TCP/IP, DNS, HTTP/HTTPS, Firewalls, VPNs, IDS/IPS, pfSense, Nmap
+
+**SOC & Threat Detection:** Log Analysis, Incident Investigation, Threat Detection, MITRE ATT&CK, Cyber Kill Chain, Active Directory Security
+
+**Offensive Security:** Penetration Testing, SSH Attack Analysis, Docker Daemon Exposure Assessment, Metasploit
+
+**Cloud & DevSecOps:** AWS, Azure, GCP, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD
+
+**Programming & Scripting:** Python, Bash, PowerShell, Java, JavaScript, KQL, HTML
+
+**Security Frameworks & Compliance:** OWASP Top 10, ISO 27001/27002, NIST, GDPR
 
 ---
 
-
 ## 💼 Experience
+
+### **SOC Analyst Intern**
+*Alcon Cyber Security Consultancy* | *May 2026 – Present | Tiruchirappalli, Tamil Nadu, India (On-site)*
+
+- Gained hands-on experience with LogRhythm SIEM and Spharaka Sphere™ for effective security monitoring and log analysis.
+- Executed Docker daemon exposure assessments and SSH attack simulations, strengthening threat detection capabilities aligned with the MITRE ATT&CK framework.
+- Conducted Active Directory security assessments to identify vulnerabilities and potential attack paths.
 
 ### **Cybersecurity Specialist Intern**
 *Shop Online New York* | *Jan 2025 – Apr 2025*
@@ -60,7 +80,5 @@ Cybersecurity professional with CEH v12 and Google Cybersecurity certifications.
 - Participated in security policy review and implementation
 
 ---
-
-
 
 *"Focus on building secure, resilient systems that help organizations defend against evolving cyber threats."*
