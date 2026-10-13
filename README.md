@@ -1,5 +1,5 @@
 # Pradeep Kumar U
-**Cybersecurity Specialist | Threat Analyst | DevOps & Cloud Security Enthusiast**
+**Cybersecurity Specialist | SOC Analyst | DevOps & Cloud Security Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-kumar-u-32b669224/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradeepkumaru-cyber)
